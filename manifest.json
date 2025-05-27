@@ -3,9 +3,9 @@
     "short_name": "Kevin Sun",
     "description": "",
     "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "display": "fullscreen",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
